@@ -1,2 +1,4 @@
 git status ELEGANTE
 cree una rama nueva 
+esto solo se aplico a la rama nueva
+verdad de dios
